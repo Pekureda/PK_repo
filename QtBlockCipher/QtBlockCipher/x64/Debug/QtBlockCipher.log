@@ -1,0 +1,10 @@
+﻿  Reading Qt configuration (C:/Qt/6.2.3/msvc2019_64/bin/qmake)
+  uic QtBlockCipher.ui
+  rcc QtBlockCipher.qrc
+  moc QtBlockCipher.h
+   RCC: Warning: No resources in 'C:\Users\arago\source\repos\oprogramowanie\source\QtBlockCipher\QtBlockCipher\QtBlockCipher.qrc'.
+  QtBlockCipher.cpp
+  main.cpp
+  qrc_QtBlockCipher.cpp
+  moc_QtBlockCipher.cpp
+  QtBlockCipher.vcxproj -> C:\Users\arago\source\repos\oprogramowanie\source\QtBlockCipher\x64\Debug\QtBlockCipher.exe

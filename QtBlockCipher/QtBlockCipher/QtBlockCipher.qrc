@@ -1,0 +1,4 @@
+<RCC>
+    <qresource prefix="QtBlockCipher">
+    </qresource>
+</RCC>

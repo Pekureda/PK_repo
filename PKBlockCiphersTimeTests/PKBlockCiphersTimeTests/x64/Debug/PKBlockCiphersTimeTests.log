@@ -1,0 +1,13 @@
+﻿  PKBlockCiphersTimeTests.cpp
+C:\Users\arago\source\repos\oprogramowanie\source\PKBlockCiphersTimeTests\PKBlockCiphersTimeTests\PKBlockCiphersTimeTests.cpp(158,24): warning C4129: '.': unrecognized character escape sequence
+C:\Users\arago\source\repos\oprogramowanie\source\PKBlockCiphersTimeTests\PKBlockCiphersTimeTests\PKBlockCiphersTimeTests.cpp(198,128): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\arago\source\repos\oprogramowanie\source\PKBlockCiphersTimeTests\PKBlockCiphersTimeTests\PKBlockCiphersTimeTests.cpp(199,131): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\arago\source\repos\oprogramowanie\source\PKBlockCiphersTimeTests\PKBlockCiphersTimeTests\PKBlockCiphersTimeTests.cpp(201,128): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\arago\source\repos\oprogramowanie\source\PKBlockCiphersTimeTests\PKBlockCiphersTimeTests\PKBlockCiphersTimeTests.cpp(202,131): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\arago\source\repos\oprogramowanie\source\PKBlockCiphersTimeTests\PKBlockCiphersTimeTests\PKBlockCiphersTimeTests.cpp(204,128): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\arago\source\repos\oprogramowanie\source\PKBlockCiphersTimeTests\PKBlockCiphersTimeTests\PKBlockCiphersTimeTests.cpp(205,131): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\arago\source\repos\oprogramowanie\source\PKBlockCiphersTimeTests\PKBlockCiphersTimeTests\PKBlockCiphersTimeTests.cpp(210,128): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\arago\source\repos\oprogramowanie\source\PKBlockCiphersTimeTests\PKBlockCiphersTimeTests\PKBlockCiphersTimeTests.cpp(211,131): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\arago\source\repos\oprogramowanie\source\PKBlockCiphersTimeTests\PKBlockCiphersTimeTests\PKBlockCiphersTimeTests.cpp(213,128): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\arago\source\repos\oprogramowanie\source\PKBlockCiphersTimeTests\PKBlockCiphersTimeTests\PKBlockCiphersTimeTests.cpp(214,131): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  PKBlockCiphersTimeTests.vcxproj -> C:\Users\arago\source\repos\oprogramowanie\source\PKBlockCiphersTimeTests\x64\Debug\PKBlockCiphersTimeTests.exe
